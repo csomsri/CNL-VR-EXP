@@ -6,4 +6,4 @@ This is the Crocker Nuclear Lab Virtual Reality Experience, the goal is to make 
 Unity + Blender
 
 ### Project Member(s)
-Chotrawit Benko, Boyce Ma
+Chotrawit Benko, Boyce Ma, Andrew Evangelista
